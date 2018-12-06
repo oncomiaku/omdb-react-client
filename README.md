@@ -9,7 +9,7 @@
 - Paginate movie list
 - View movie detail
 
-#How  to Install
+## How  to Install
 - Clone this repository
 - Execute `cd omdb-react-client/` to enter app working directory
 - Execute `npm install` to install app devendencies
